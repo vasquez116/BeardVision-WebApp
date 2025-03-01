@@ -4,7 +4,6 @@ requests
 numpy
 opencv-python-headless
 tensorflow
+cmake  # Ensure this is installed first
 
-# Dependencies for dlib
-cmake
-dlib==19.24.2  # Ensure compatibility with latest stable version
+# Do NOT include dlib here! We'll handle it separately.
