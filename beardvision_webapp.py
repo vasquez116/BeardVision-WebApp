@@ -5,7 +5,8 @@ import requests
 import base64
 
 # Backend API URL
-API_URL = "https://your-backend-api-url/analyze_beard/"  # Replace with deployed API endpoint
+API_URL = "https://your-real-backend-url.com/analyze_beard/"
+
 
 # Streamlit UI
 def main():
