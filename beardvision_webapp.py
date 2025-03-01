@@ -1,4 +1,6 @@
 import streamlit as st
+st.set_page_config(page_title="BeardVision AI", page_icon="favicon.png")
+import streamlit as st
 import requests
 import base64
 
