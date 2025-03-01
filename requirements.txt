@@ -1,0 +1,6 @@
+streamlit
+requests
+numpy
+opencv-python-headless
+tensorflow
+dlib
