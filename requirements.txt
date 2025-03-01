@@ -1,6 +1,10 @@
+# Essential packages
 streamlit
 requests
 numpy
 opencv-python-headless
 tensorflow
-dlib
+
+# Dependencies for dlib
+cmake
+dlib==19.24.2  # Ensure compatibility with latest stable version
